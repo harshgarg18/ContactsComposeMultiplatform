@@ -1,0 +1,3 @@
+package com.plcoding.contactscomposemultiplatform.contacts.presentation
+
+sealed interface ContactListEvent
